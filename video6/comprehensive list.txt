@@ -1,0 +1,58 @@
+Block elements 
+div
+p
+h1 h2 h3 h4 h5 h6
+section
+article
+header
+footer
+nav
+main
+aside
+form
+ul
+ol
+li
+table
+tr
+td
+th
+thead
+tbody
+tfoot
+figure
+hr
+blockquote
+address
+
+
+Inline elements
+a
+span
+img
+label
+input
+button
+textarea
+select
+strong
+b
+em
+i
+u
+code
+kbd
+small
+sub
+sup
+mark
+time
+
+inline-blocked elements-Inline-block behaves like inline
+(doesn’t start a new line) but allows you to set width/height/margin/padding like a block.
+img
+input
+button
+textarea
+select
+
